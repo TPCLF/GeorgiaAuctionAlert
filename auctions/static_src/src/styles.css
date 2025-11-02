@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/**
+  * Source paths scanned by Tailwind — include templates and Python files under the project.
+  */
+@source "../../../**/*.{html,py,js}";

@@ -1,0 +1,19 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Virtual environment
+venv/
+.env
+
+# Tailwind / Node
+node_modules/
+theme/static/css/output.css
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
